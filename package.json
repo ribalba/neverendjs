@@ -1,0 +1,22 @@
+{
+  "name": "neverendjs",
+  "version": "0.0.1",
+  "description": "A little server that serves /dev/urandom for ever",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ribalba/neverendjs.git"
+  },
+  "author": "Didi Hoffmann",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ribalba/neverendjs/issues"
+  },
+  "homepage": "https://github.com/ribalba/neverendjs#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
