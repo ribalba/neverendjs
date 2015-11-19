@@ -5,6 +5,8 @@ This is just a little experiment with a never ending download. You could run thi
 
 There is the issue of how fast /dev/random will give you data. This really depends on the OS and computer you are running on.
 
+If someone is writing a we crawler you really want him to try and crawl this :p
+
 # WARNING
 
 Do not run this on a server that you use for encryption or anything that consumes random numbers as these might be exposed through urdandom
